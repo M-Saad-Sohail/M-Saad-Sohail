@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-saad-sohail" alt="m-saad-sohail" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/saad_sohail123" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/saad_sohail123?logo=twitter&style=for-the-badge" alt="https://twitter.com/saad_sohail123" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/saad_sohail123" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/745/original/twitter-logo-twitter-icon-transparent-free-free-png.png" alt="https://twitter.com/saad_sohail123" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS, React Native**
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **saadsohail232005@gmail.com**
-
-- 📄 Know about my experiences [f](f)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
